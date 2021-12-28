@@ -65,7 +65,7 @@ Useful Resources:
   > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
   
 ### Azure Functions 
-### Azure Kubernetes Service
+### :seedling: [Azure Kubernetes Service](
 ### Azure Congitive Services
 ### Developer Tools
 ### Azure Communication Services
