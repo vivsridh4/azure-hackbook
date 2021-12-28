@@ -64,17 +64,17 @@ Useful Resources:
   
   > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
   
-### Azure Functions 
-### :seedling: [Azure Kubernetes Service](
-### Azure Congitive Services
-### Developer Tools
-### Azure Communication Services
-### Storage 
-### Database
-### IoT
-### Azure Synapse Analytics 
-### Azure Machine Learning + Bot Service
-### Integrations  
+### :seedling: Azure Functions 
+### :seedling: Azure Kubernetes Service
+### :seedling: Azure Congitive Services
+### :seedling: Developer Tools
+### :seedling: Azure Communication Services
+### :seedling: Storage 
+### :seedling: Database
+### :seedling: IoT
+### :seedling: Azure Synapse Analytics 
+### :seedling: Azure Machine Learning + Bot Service
+### :seedling: Integrations  
 
 ## [Microsoft Reactor Community - Continuous Skilling](https://www.meetup.com/microsoft-reactor-bengaluru)
 
