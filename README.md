@@ -42,11 +42,11 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
   Useful Resources:
   
-  > [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
+  > [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/?wt.mc_id=github_visrid_webinar_reactor)
   
-  > [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
+  > [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/?wt.mc_id=github_visrid_webinar_reactor)
 
-### :seedling: [**Azure Container Instance**](https://azure.microsoft.com/en-us/services/container-instances/)
+### :seedling: [**Azure Container Instance**](https://azure.microsoft.com/services/container-instances/?wt.mc_id=github_visrid_webinar_reactor)
 
 Develop apps fast without managing virtual machines or having to learn new tools—it's just your application, in a container, running in the cloud.
 
@@ -65,16 +65,11 @@ Useful Resources:
   > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
   
 ### :seedling: Azure Functions 
-### :seedling: Azure Kubernetes Service
 ### :seedling: Azure Congitive Services
 ### :seedling: Developer Tools
-### :seedling: Azure Communication Services
 ### :seedling: Storage 
 ### :seedling: Database
-### :seedling: IoT
-### :seedling: Azure Synapse Analytics 
-### :seedling: Azure Machine Learning + Bot Service
-### :seedling: Integrations  
+### :seedling: IoT 
 
 ## [Microsoft Reactor Community - Continuous Skilling](https://www.meetup.com/microsoft-reactor-bengaluru)
 
