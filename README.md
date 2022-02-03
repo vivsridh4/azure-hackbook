@@ -24,7 +24,7 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
   > 🧑‍🤝‍🧑 [Join Microsoft Reactor Community](https://www.meetup.com/microsoft-reactor-bengaluru)
 
-## [Azure for Containers](https://docs.microsoft.com/en-in/learn/modules/intro-to-docker-containers)
+## [Azure for Containers](https://docs.microsoft.com/en-in/learn/modules/intro-to-docker-containers/?wt.mc_id=github_visrid_webinar_reactor)
   
   Teams today must release apps quickly to attract and keep business. This requirement forces software development and support teams to always look at solutions that save time and reduces costs. An ideal solution will reduce the time spent on creating and configuring deployment environments, and simplify the software deployment process.
   
@@ -34,9 +34,9 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
   > [Docker in 120 min](https://www.youtube.com/watch?v=a0N5TFYLfAM&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=2)
   
-  > [What is a container?](https://azure.microsoft.com/en-in/overview/what-is-a-container/#overview)
+  > [What is a container?](https://azure.microsoft.com/overview/what-is-a-container/#overview/?wt.mc_id=github_visrid_webinar_reactor)
 
-### :seedling: [**Containers on Azure App Service**](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+### :seedling: [**Containers on Azure App Service**](https://docs.microsoft.com/azure/container-instances/container-instances-overview/?wt.mc_id=github_visrid_webinar_reactor)
   
   Use Azure App Service to deploy a web application based on the Docker image or code. Configure continuous deployment for the web app by using a webhook that monitors the Docker image for changes.
   
