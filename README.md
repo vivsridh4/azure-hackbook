@@ -11,16 +11,16 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/vivek_sridhar)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivsridh/)  &nbsp; 
 <a href="mailto:vivek@vickybytes.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-## [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+## [Azure Fundamentals](https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/?wt.mc_id=github_azurehappyhours_webinar_reactor)
   New to the cloud? Azure fundamentals learning path on Microsoft Learn is a six-part series that teaches you basic cloud concepts, provides a streamlined overview of many Azure services, and guides you with hands-on exercises to deploy your very first services for free.
   
-  Here is the link to get started with :point_right: [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts)
+  Here is the link to get started with :point_right: [Azure Fundamentals](https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/?wt.mc_id=github_azurehappyhours_webinar_reactor)
   
   Useful References:
   
-  > 📘 [Resource access management in Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management?wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+  > 📘 [Resource access management in Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management/?wt.mc_id=github_visrid_webinar_reactor)
   
-  > 📗 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management?wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+  > 📗 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management/?wt.mc_id=github_visrid_webinar_reactor)
   
   > 🧑‍🤝‍🧑 [Join Microsoft Reactor Community](https://www.meetup.com/microsoft-reactor-bengaluru)
 
