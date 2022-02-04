@@ -10,6 +10,18 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/vivek_sridhar)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivsridh/)  &nbsp; 
 <a href="mailto:vivek@vickybytes.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+## [Microsoft Learn](https://docs.microsoft.com/learn/?wt.mc_id=github_visrid_webinar_reactor)
+  
+  Whether you're just starting or an experienced professional, the hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
+  
+> 🔖 [**Browser learning paths & modules**](https://docs.microsoft.com/learn/?wt.mc_id=github_visrid_webinar_reactor)
+  
+## [Code Samples](https://docs.microsoft.com/samples/browse/?wt.mc_id=github_visrid_webinar_reactor)
+  
+  Get started with Microsoft developer tools and technologies. Explore code samples and discover the things you can build.
+  
+> 🔖 [**Browse code samples**](https://docs.microsoft.com/samples/browse/?wt.mc_id=github_visrid_webinar_reactor)
 
 ## [Azure Fundamentals](https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/?wt.mc_id=github_azurehappyhours_webinar_reactor)
   New to the cloud? Azure fundamentals learning path on Microsoft Learn is a six-part series that teaches you basic cloud concepts, provides a streamlined overview of many Azure services, and guides you with hands-on exercises to deploy your very first services for free.
@@ -52,7 +64,7 @@ Develop apps fast without managing virtual machines or having to learn new tools
 
 Useful Resources:
 
-> [Run Docker containers with Azure Container Instances](https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/)
+> [Run Docker containers with Azure Container Instances](https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/?wt.mc_id=github_visrid_webinar_reactor)
 
 >[Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
 
@@ -64,12 +76,12 @@ Useful Resources:
   
   > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
   
-### :seedling: Azure Functions 
-### :seedling: Azure Congitive Services
-### :seedling: Developer Tools
-### :seedling: Storage 
-### :seedling: Database
-### :seedling: IoT 
+## Azure Functions 
+## Azure Congitive Services
+## Developer Tools
+## Storage 
+## Database
+## IoT 
 
 ## [Microsoft Reactor Community - Continuous Skilling](https://www.meetup.com/microsoft-reactor-bengaluru)
 
