@@ -48,7 +48,7 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
   > [What is a container?](https://azure.microsoft.com/overview/what-is-a-container/#overview/?wt.mc_id=github_visrid_webinar_reactor)
 
-### :seedling: [**Containers on Azure App Service**](https://docs.microsoft.com/azure/container-instances/container-instances-overview/?wt.mc_id=github_visrid_webinar_reactor)
+### 🔗 [Containers on Azure App Service](https://docs.microsoft.com/azure/container-instances/container-instances-overview/?wt.mc_id=github_visrid_webinar_reactor)
   
   Use Azure App Service to deploy a web application based on the Docker image or code. Configure continuous deployment for the web app by using a webhook that monitors the Docker image for changes.
   
@@ -58,7 +58,7 @@ This repo is an inspiration from what I had built perviously with [Arko](https:/
   
   > [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/?wt.mc_id=github_visrid_webinar_reactor)
 
-### :seedling: [**Azure Container Instance**](https://azure.microsoft.com/services/container-instances/?wt.mc_id=github_visrid_webinar_reactor)
+### 🔗 [**Azure Container Instance**](https://azure.microsoft.com/services/container-instances/?wt.mc_id=github_visrid_webinar_reactor)
 
 Develop apps fast without managing virtual machines or having to learn new tools—it's just your application, in a container, running in the cloud.
 
@@ -66,15 +66,15 @@ Useful Resources:
 
 > [Run Docker containers with Azure Container Instances](https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/?wt.mc_id=github_visrid_webinar_reactor)
 
->[Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
+>[Build a containerized web application with Docker](https://docs.microsoft.com/learn/modules/intro-to-containers/?wt.mc_id=github_visrid_webinar_reactor)
 
-### 🌱 [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/#overview)
+### 🔗 [Azure Container Apps](https://azure.microsoft.com/services/container-apps/#overview/?wt.mc_id=github_visrid_webinar_reactor)
   
   Build and deploy modern apps and microservices using serverless containers
   
-  > [Deploy an existing container image in the Azure portal](https://docs.microsoft.com/en-us/azure/container-apps/get-started-existing-container-image-portal?pivots=container-apps-private-registry)
+  > [Deploy an existing container image in the Azure portal](https://docs.microsoft.com/en-us/azure/container-apps/get-started-existing-container-image-portal?pivots=container-apps-private-registry&wt.mc_id=github_visrid_webinar_reactor)
   
-  > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
+  > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/azure/container-apps/revisions-manage?tabs=bash&wt.mc_id=github_visrid_webinar_reactor)
   
 ## Azure Functions 
 ## Azure Congitive Services
@@ -83,7 +83,7 @@ Useful Resources:
 ## Database
 ## IoT 
 
-## [Microsoft Reactor Community - Continuous Skilling](https://www.meetup.com/microsoft-reactor-bengaluru)
+## [Join - Microsoft Reactor Community](https://www.meetup.com/microsoft-reactor-bengaluru)
 
 **Learn, Connect, Build.**
 
