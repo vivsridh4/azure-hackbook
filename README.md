@@ -76,7 +76,14 @@ Useful Resources:
   
   > [Manage revisions Azure Container Apps Preview](https://docs.microsoft.com/azure/container-apps/revisions-manage?tabs=bash&wt.mc_id=github_visrid_webinar_reactor)
   
-## Azure Functions 
+## [Azure Functions](https://azure.microsoft.com/services/functions/?wt.mc_id=github_visrid_webinar_reactor)
+  
+  Develop more efficiently with an event-driven, serverless compute platform that helps solve complex orchestration problems. Build and debug locally without additional setup, deploy and operate at scale in the cloud, and integrate services using triggers and bindings.
+  
+  > [Explore Azure Functions](https://docs.microsoft.com/learn/modules/explore-azure-functions/?wt.mc_id=github_visrid_webinar_reactor)
+  
+  >[Implement Azure Functions](https://docs.microsoft.com/learn/paths/implement-azure-functions/?wt.mc_id=github_visrid_webinar_reactor)
+  
 ## Azure Congitive Services
 ## Developer Tools
 ## Storage 
