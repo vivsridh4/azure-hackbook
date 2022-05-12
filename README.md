@@ -84,11 +84,6 @@ Useful Resources:
   
   >[Implement Azure Functions](https://docs.microsoft.com/learn/paths/implement-azure-functions/?wt.mc_id=github_visrid_webinar_reactor)
   
-## Azure Congitive Services
-## Developer Tools
-## Storage 
-## Database
-## IoT 
 
 ## [Join - Microsoft Reactor Community](https://www.meetup.com/microsoft-reactor-bengaluru)
 
